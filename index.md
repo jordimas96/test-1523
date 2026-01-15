@@ -2,4 +2,9 @@ this is my profoli:
 
 im a very good **programer**
 
-my index!!! (index.md)
+I studied [here](https://www.school.com)
+
+My projects are [here](https://www.school.com)
+
+
+
